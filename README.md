@@ -26,8 +26,7 @@
 ![](https://streak-stats.demolab.com/?user=utkc1507-collab&theme=ayu-mirage&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=utkc1507-collab&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=utkc1507-collab&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
