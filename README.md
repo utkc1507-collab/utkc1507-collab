@@ -1,3 +1,12 @@
+# ⚡                           Hi, I'm Utkarsh Chandra Vishwakarma
+
+### 🚀 B.Tech Engineer | Scaling Tech Architectures & Solving Complex Systems🧠 What I'm Engineering Right Now
+
+
+- 🔭 **Current Focus:** Cracking algorithmic logic via deep-dives into **Data Structures & Algorithms (DSA) in C++**.
+- 🌱 **System Foundations:** Mastering the internal mechanics of memory management and process scheduling in **Operating Systems (OS)**.
+- 🏗️ **Core Mastery:** Writing clean, scalable scripts and building applications using **Python**.
+- 🤝 **The Vision:** Actively seeking collaborations at the intersection of **cutting-edge software development** and **tech-entrepreneurship**.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/utkarsh-chandra-vishwakarma-936b0637a) 
